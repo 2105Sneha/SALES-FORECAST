@@ -1,6 +1,5 @@
-# SALES-FORECAST
-Sales Forecasting &amp; Performance Analysis (Python + Power BI)
-Project Overview
+Sales Forecasting & Performance Analysis (Python + Power BI)
+📌 Project Overview
 This project builds an end-to-end sales forecasting pipeline using Python (Machine Learning) and Power BI.
 Historical sales data is used to predict future sales, evaluate model performance, and visualize business insights through an interactive dashboard.
 
